@@ -1,6 +1,6 @@
-# NexShop_v1.1 - 轻量免费的独立商城解决方案
+# Huango_v1.2 - 轻量免费的独立商城解决方案
 
-NexShop_v1.1 是一款面向个人卖家、小型商户打造的**免费开源独立商城系统**，无需复杂部署、无功能限制、无付费门槛，可快速搭建专属的独立电商阵地，覆盖商品展示、买家咨询、客服管理全核心流程，助力中小商家低成本实现线上经营。
+Huango_v1.2 是一款面向个人卖家、小型商户打造的**免费开源独立商城系统**，无需复杂部署、无功能限制、无付费门槛，可快速搭建专属的独立电商阵地，覆盖商品展示、买家咨询、客服管理全核心流程，助力中小商家低成本实现线上经营。
 
 ## 核心功能及优势
 
@@ -23,7 +23,7 @@ NexShop_v1.1 是一款面向个人卖家、小型商户打造的**免费开源�
 
 ## 软件链接
 
-<a href="https://nexshop.freeing.wiki/v1/v1.1/index.html" target="_blank">软件主页</a>
+<a href="https://huango.freeing.wiki/v1/v1.2/index.html" target="_blank">软件主页</a>
 
 ## 版权声明
 
@@ -35,10 +35,10 @@ Copyright (c) 2025 许灿标
 
 ## 下载
 
-<a href="https://nexshop.freeing.wiki/v1/v1.1/static/download/index.html" target="_blank">download</a>
+<a href="https://huango.freeing.wiki/v1/v1.2/static/download/index.html" target="_blank">download</a>
 
 # 交流
 
 添加我的微信，并备注“进群”，拉你进微信交流群：
 
-<img src="https://nexshop.freeing.wiki/author_wechat_qr_code.jpg" alt="二维码" style="width: 15rem;" />
+<img src="https://huango.freeing.wiki/author_wechat_qr_code.jpg" alt="二维码" style="width: 15rem;" />
