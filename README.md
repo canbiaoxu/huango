@@ -4,7 +4,7 @@ NexShop 是一款面向个人卖家、小型商户打造的**免费独立商城�
 
 ## 版本列表
 
-<a href="v1.0/index.html" target="_blank">v1.0</a>
+<a href="v1/v1.1/index.html" target="_blank">v1.1</a>
 
 # 交流
 

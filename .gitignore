@@ -1,11 +1,12 @@
 **/ig_**
 
-v1.0/商店配置
-v1.0/static/template
-v1.0/static/static_server
-v1.0/static/is_static_dir
-v1.0/static/run.py
-v1.0/static/run.dist
+*.py
+
+**/v1.1/商店配置
+**/v1.1/static/template
+**/v1.1/static/static_server
+**/v1.1/static/is_static_dir
+**/v1.1/static/run.dist
 
 ################################################################################################## 默认
 
